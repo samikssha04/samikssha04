@@ -14,15 +14,13 @@
 
 ## 🎯 Current Focus
 
-```javascript
-const samikssha = {
-    currentProject: "Event Management System",
-    learning: ["MERN Stack", , ,
-    collaboration: "Open to Frontend Projects",
-    askMeAbout: ["React", "JavaScript", "UI/UX", "Full-Stack Development"],
-    contact: "samikssha04@gmail.com"
-};
-```
+
+   Current Project : Event Management System <br>
+   Learning: MERN Stack <br>
+   Collaboration: Open to Frontend Projects <br>
+   Contact: samikssha04@gmail.com <br>
+
+
 
 <br>
 
