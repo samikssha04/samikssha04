@@ -17,7 +17,7 @@
 ```javascript
 const samikssha = {
     currentProject: "Event Management System",
-    learning: ["MERN Stack", "Advanced React Patterns", "Node.js Best Practices"],
+    learning: ["MERN Stack", , ,
     collaboration: "Open to Frontend Projects",
     askMeAbout: ["React", "JavaScript", "UI/UX", "Full-Stack Development"],
     contact: "samikssha04@gmail.com"
